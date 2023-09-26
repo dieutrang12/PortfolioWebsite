@@ -1,0 +1,40 @@
+h2 {
+    color: turquoise;
+} 
+
+h1 { 
+    color: turquoise;
+    font-family:Georgia, 'Times New Roman', Times, serif"
+}
+body{
+    background-color: lightpink;
+}
+section, footer{
+    padding: 32px;
+    margin: 0px;
+    width: 800px;
+    background-color: azure;
+}
+
+.profile{
+    text-align: center;
+    padding-top: 100px;
+}
+.profile > img{
+    width: 150px;
+    border-radius: 100px;
+    border: solid green 10px;
+}
+.social-media-link > img{
+    width: 150px; 
+    cursor: pointer;
+}
+.about{
+    text-align: center;
+}
+.about > h2{
+    padding-top: 25px;
+}
+.about > a {
+    padding-bottom: 25px;
+}
